@@ -69,14 +69,14 @@ Submit a **PDF report** including:
 
 ## 📁 Repository Structure
 ```
-├── Verilog_Files/alu.v                # Exercise 1 – ALU module
-├── Verilog_Files/calc.v               # Exercise 2 – Calculator (main)
-├── Verilog_Files/calc_enc.v           # Exercise 2 – Button decoder
-├── Verilog_Files/calc_tb.v            # Exercise 2 – Testbench
-├── Verilog_Files/regfile.v            # Exercise 3 – Register file
-├── Verilog_Files/datapath.v           # Exercise 4 – RISC-V datapath
-├── Verilog_Files/top_proc.v           # Exercise 5 – Multicycle controller (top module)
-├── Verilog_Files/top_proc_tb.v        # Exercise 5 – Final CPU testbench
+├── Verilog_Files/Exercise1/alu.v                # Exercise 1 – ALU module
+├── Verilog_Files/Exercise2/calc.v               # Exercise 2 – Calculator (main)
+├── Verilog_Files/Exercise2/calc_enc.v           # Exercise 2 – Button decoder
+├── Verilog_Files/Exercise2/calc_tb.v            # Exercise 2 – Testbench
+├── Verilog_Files/Exercise3/regfile.v            # Exercise 3 – Register file
+├── Verilog_Files/Exercise4/datapath.v           # Exercise 4 – RISC-V datapath
+├── Verilog_Files/Exercise5/top_proc.v           # Exercise 5 – Multicycle controller (top module)
+├── Verilog_Files/Exercise5/top_proc_tb.v        # Exercise 5 – Final CPU testbench
 ├── report.pdf           # Coursework report with waveforms and FSM
 └── README.md            # This documentation
 ```
